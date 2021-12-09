@@ -1,5 +1,5 @@
 level,component,next_assy,description,mass,xchar,ychar,zchar
-1,TBL10106-501,,chair_assy,10.6,-1157.692308,0,378.2051282
+1,TBL10106-501,,chair_assy,7.8,-1157.692308,0,378.2051282
 2,TBL10107-501,TBL10106-501,seat plate,4,-1165,0,500
 3,TBL10011-001,TBL10107-501,seat,1.2,-1200,0,500
 3,TBL10108-501,TBL10107-501,ribs collection,2.6,-1150,0,500
